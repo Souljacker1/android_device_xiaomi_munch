@@ -18,7 +18,7 @@ $(call inherit-product, device/xiaomi/munch/device.mk)
 TARGET_BOOT_ANIMATION_RES := 1440
 TARGET_GAPPS_ARCH := arm64
 TARGET_SUPPORTS_QUICK_TAP := true
-#DERP_BUILDTYPE := Official
+DERP_BUILDTYPE := Official
 
 PRODUCT_NAME := derp_munch
 PRODUCT_DEVICE := munch
