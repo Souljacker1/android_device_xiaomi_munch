@@ -28,7 +28,7 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
 BUILD_FINGERPRINT := Redmi/munch/munch:12/RKQ1.211001.001/V13.0.5.0.SLMMIXM:user/release-keys
 
 # Input additional flags here.
-RICE_MAINTAINER := SAMMY
+RICE_MAINTAINER := SAMMY•MAHI
 RICE_OFFICIAL := true
 RICE_DEVICE := munch
 WITH_GMS := true
